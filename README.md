@@ -1,21 +1,25 @@
 # Employee Management API
 
-Technologies:
+## Technologies
+
 - ASP.NET Core 8
 - Entity Framework Core
 - SQLite
 - Swagger
 
-Features:
+## Features
+
 - Create employee
 - Get all employees
-- Get employee by id
+- Get employee by ID
 - Update salary
 - Delete employee
 - Salary analytics
 - Audit logging
 
-Run:
+## Run
 
+```bash
 dotnet restore
 dotnet run
+```
