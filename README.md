@@ -11,10 +11,9 @@ Simple yet powerful Employee Management API built with **ASP.NET Core 8**. This 
 ## 📸 API Preview (Swagger)
 
 <p align="center">
-  <img src="swagger-screenshot.png" alt="Swagger UI Documentation" width="800">
+  <img src="swagger_ui.png" alt="Swagger UI Documentation" width="800">
 </p>
 
-> **Note:** Zameni `swagger-screenshot.png` sa tačnim imenom fajla koji si uploadovao u repozitorijum.
 
 ---
 
